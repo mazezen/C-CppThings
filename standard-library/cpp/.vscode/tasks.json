@@ -2,7 +2,7 @@
   "tasks": [
     {
       "type": "shell",
-      "label": "G++-15 编译当前文件 (C99)",
+      "label": "G++-15 编译当前文件 (C++17)",
       "command": "opt/homebrew/bin/g++-15",
       "args": [
         "-std=c++17",
@@ -23,7 +23,7 @@
         "kind": "build",
         "isDefault": true
       },
-      "detail": "使用 GCC-15 + C99 编译当前 C 文件(macOS)"
+      "detail": "使用 GCC-15 + C++17 编译当前 C++ 文件(macOS)"
     }
   ],
   "version": "2.0.0"

@@ -5,7 +5,7 @@
       "includePath": ["${workspaceFolder}/**"],
       "defines": [],
       "compilerPath": "/opt/homebrew/bin/gcc-14",
-      "cStandard": "c99",
+      "cStandard": "c23",
       "cppStandard": "c++17",
       "intelliSenseMode": "macos-gcc-arm64"
     }
