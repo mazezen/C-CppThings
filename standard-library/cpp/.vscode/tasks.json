@@ -21,7 +21,7 @@
       "problemMatcher": ["$gcc"],
       "group": {
         "kind": "build",
-        "isDefault": true
+        "isDefault": false
       },
       "detail": "使用 GCC-15 + C++17 编译当前 C++ 文件(macOS)"
     }
