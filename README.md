@@ -5,6 +5,7 @@
 - cases (示例)
   - book_library (C++): 图书管理系统
   - guess_the_number_game (C++): 猜数字游戏
+  - calculator: 简易计算器
 
 - cmake (cmake学习)
 
