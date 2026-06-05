@@ -3,7 +3,8 @@
 > Learning C and C++
 
 - cases (示例)
-  - book_library (C++)
+  - book_library (C++): 图书管理系统
+  - guess_the_number_game (C++): 猜数字游戏
 
 - cmake (cmake学习)
 
