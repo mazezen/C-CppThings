@@ -6,6 +6,7 @@
   - book_library (C++): 图书管理系统
   - guess_the_number_game (C++): 猜数字游戏
   - calculator: 简易计算器
+  - contact_list: 通讯录系统
 
 - cmake (cmake学习)
 
