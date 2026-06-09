@@ -1,5 +1,9 @@
 {
-  "C_Cpp.errorSquiggles": "enabledIfIncludesResolve",
-  "C_Cpp.intelliSenseEngine": "default",
-  "C_Cpp.autocomplete": "default"
+  "editor.formatOnSave": true,
+  "[cpp]": {
+    "editor.defaultFormatter": "xaver.clang-format"
+  },
+  "[c]": {
+    "editor.defaultFormatter": "xaver.clang-format"
+  }
 }
